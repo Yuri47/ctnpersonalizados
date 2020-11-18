@@ -1,6 +1,3 @@
-import { Component } from "react";
-import { HomePage } from "./component.js";
-
 function Home(){
     return (
         <div>
